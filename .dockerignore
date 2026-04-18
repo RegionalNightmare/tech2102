@@ -1,0 +1,12 @@
+node_modules
+build
+.git
+.gitignore
+.env
+.env.local
+npm-debug.log*
+Dockerfile
+.dockerignore
+Jenkinsfile
+HOW_TO_RUN.md
+README.md
